@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1100/1*jdSgbuQ3TkfXFBROVzc-ow.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Kai Wen Tian</h1>
+<h1 align="center">Hi 👋, I'm Tian Kai Wen</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2529176/screenshots/13977385/media/1f27e5297fd6ed1eaf6a530d51413a10.gif">
 
